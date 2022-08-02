@@ -1,6 +1,6 @@
 # Student Management System in Python 
 
-![python](https://img.shields.io/badge/Python-v3.9.10-green?style=plastic&logo=python&logoWidth=20)       ![gui](https://img.shields.io/badge/GUI-Tkinter-red?style=plastic&logo=appveyor) ![database](https://img.shields.io/badge/Database-mysql-brightgreen?style=plastic&logo=mysql&logoWidth=15)
+![python](https://img.shields.io/badge/Python-v3.9.10-green?style=plastic&logo=python&logoWidth=20)       ![gui](https://img.shields.io/badge/GUI-Tkinter-red?style=plastic&logo=appveyor) ![database](https://img.shields.io/badge/Database-mysql-brightgreen?style=plastic&logo=mysql&logoWidth=15) ![licnese](https://img.shields.io/badge/License-GPL-blue.svg)
 <br/>
 ### Introduction :
 <p align="justify"> Student Management System is made using python with tkinter gui and Database used is mysql. This management system consists of the Superadmin login,admin login, faculty login, student login. This can make the work of the college more simple.</p> <br />
