@@ -24,7 +24,7 @@
 <p align="justify">The database is design in such a way that when a student, admin or faculty is added the database automatically assigns the id to them. I have used the concept like stored procedure, function and triggers to do this process. Also the attendance can be recorded and used such query.
 
 ### Project Video Link :
-If you want to see the detail output of my project - Click here
+If you want to see the detail output of my project - ![Click here](https://youtu.be/iMQJRHVZQHA)
 
 ### Installation Process :
 <p align="justify">If you want to do this project then fork this project or clone using the following command :
