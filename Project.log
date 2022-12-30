@@ -1,0 +1,40 @@
+Day 8:
+Focused on implementing a search function in the admin frame. This allows the admin to search for specific students based on various criteria such as name, ID, or class.
+Completed the search function and tested it to ensure it was working as intended.
+
+Day 9:
+Worked on implementing SQL code to automatically add new student IDs without causing any exceptions or errors.
+Created the frame for adding new students and managing existing students. This includes input fields for collecting the necessary information about the student, as well as buttons for saving the information to the database and canceling the process.
+
+Day 10:
+Focused on implementing the backend logic for adding new students to the database and managing existing student records. This includes checking for errors and validating the input data.
+Tested the add and manage student functionality to ensure it was working correctly.
+
+Day 11:
+Added the GUI for the fees button in the main frame. This button will allow the user to access the fees management system.
+Designed the layout and added the necessary input fields and buttons.
+
+Day 12:
+Worked on the fees management frame. This includes input fields for collecting the fees information, as well as buttons for saving the information to the database and canceling the process.
+
+Day 13:
+Created a new toplevel fees frame and implemented a login system for the faculty. This allows the faculty members to access their own specific fees information.
+Designed the layout and added the necessary input fields and buttons.
+
+Day 14:
+Worked on the faculty frame, specifically the student details and assign class teacher sections. This includes input fields for collecting the necessary information and buttons for saving the changes to the database.
+
+Day 15:
+Focused on implementing the attendance frame for the faculty. This includes input fields for collecting attendance information and buttons for saving the data to the database.
+Tested the attendance frame to ensure it was working correctly.
+
+Day 16:
+Completed the attendance frame for the faculty and began working on the student login system. This will allow students to access their own specific attendance and fees information.
+
+Day 17:
+Worked on the student frame, adding various functions such as the ability to view attendance and fees information.
+Tested the student frame to ensure it was working correctly.
+
+Day 18:
+Implemented a forgot password feature in the login window, allowing users to reset their password if they have forgotten it.
+Completed the student frame and finished the project. Spent the remainder of the day testing the entire application to ensure it was functioning properly.
